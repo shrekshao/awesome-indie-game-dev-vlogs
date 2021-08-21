@@ -25,3 +25,7 @@ Please share your treasure findings cuz I'm really interested
 * ...
 * ...
 * Me trying to blend in, not qualified, you've been warned: https://space.bilibili.com/53988883
+
+# Sites
+
+* [Geography driven map generator](https://mewo2.com/notes/terrain/) (not game, not vlog, but...fun)
